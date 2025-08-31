@@ -85,7 +85,7 @@ python inference.py --input sample.jpg --model checkpoints/best_model.pth
 ## 📊 Results
 Here is an example of inference results across different models:
 
-![Inference Results]("https://pasteboard.co/ET7AaweQ3ZS5.png")
+![Inference Results](https://github.com/user-attachments/assets/a09f03cc-2e85-494c-b8b1-29b6a85178d6)
 
 ---
 

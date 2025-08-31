@@ -47,10 +47,9 @@ pip install -r requirements.txt
 
 ### 4. Download Dataset
 This project supports **Kaggle datasets**.  
-Make sure you have your Kaggle API key configured. To download:
+Make sure you have your Kaggle API key configured in utils. To download:
 ```bash
-kaggle datasets download -d <DATASET-NAME>
-unzip <DATASET-NAME>.zip -d data/
+python utild/dataset_loader.py
 ```
 
 ---

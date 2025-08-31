@@ -49,7 +49,7 @@ pip install -r requirements.txt
 This project supports **Kaggle datasets**.  
 Make sure you have your Kaggle API key configured in utils. To download:
 ```bash
-python utild/dataset_loader.py
+python utils/dataset_loader.py
 ```
 
 ---
@@ -85,7 +85,7 @@ python inference.py --input sample.jpg --model checkpoints/best_model.pth
 ## 📊 Results
 Here is an example of inference results across different models:
 
-![Inference Results](results/inference_examples.png)
+![Inference Results](<img width="1090" height="368" alt="Image" src="https://github.com/user-attachments/assets/0c1c910d-fc27-4c84-9167-9774b838edd0" />)
 
 ---
 
